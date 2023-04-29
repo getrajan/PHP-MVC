@@ -1,0 +1,15 @@
+{
+  "name": "rajune/php-mvc",
+  "authors": [
+    {
+      "name": "Rajan Karki",
+      "email": "gomansinghkarki@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {}
+}
